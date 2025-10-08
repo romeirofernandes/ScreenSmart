@@ -23,7 +23,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-dropzone": "^14.3.8",
-    "react-router-dom": "^7.4.0",
+    "react-router-dom": "^7.5.2",
     "simple-peer": "^9.11.1",
     "socket.io-client": "^4.8.1",
     "supabase": "^2.20.5",
